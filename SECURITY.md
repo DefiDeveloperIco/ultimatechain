@@ -71,7 +71,7 @@ Any suspicious activity will be reported, and all activities may be recorded.
 
 3.4. You agree that We may share and transfer your information which no longer identifies You to the third party (pseudonymization) who is a contracting party with Us, usually Our service providers or advertising partners.
 
-4. For How Long We Retain your Personal Information
+4. **For How Long We Retain your Personal Information**
 
 4.1. We will retain your information for as long as your account is active, your information is needed to provide You services, or as required to fulfill Our legal obligations.
 
