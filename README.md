@@ -33,5 +33,29 @@ We have high-load servers in our arsenal to ensure the smooth and high-quality o
 - Ticker: UCHT
 - Type: Security
 - Token standard: TRC20
+- Accepted currencies: TRX
 
-Accepted currencies: TRX
+## Ultimate Chain Roadmap
+
+1. [ ] UCHT AirDrop Token
+* Distribution of 100,000 tokens per 1,500,000 token sales among all UCHT token buyers
+
+2. [ ] List on 3 exchanges
+* poloniex
+* Xt.com
+* Trontrade
++ Distribution of 2,000,000 tokens among all token buyers
+
+3. [ ] Launch of the first contract based on the UCHT token
+* 30% of the revenue of this contract will be distributed among all token buyers + 2,000,000 tokens among all token buyers
+
+4. [ ] Release UCHT token wallet for IOS and ANDROID
+* 40% of wallet proceeds will be distributed to user who have purchased more than 20,000 tokens
++ Distribution of 2,000,000 tokens among all token buyers
+
+5. [ ] List in Bainance
++ huobi distribution of 3,000,000 tokens to all token buyers
+
+6. [ ] Release of 2 online games for iOS, ANDROID in collaboration with supercell
+* 30% of the proceeds of these 2 games will be distributed to user who have purchased more than 50,000 tokens
++ Distribution of 3,000,000 tokens among all token buyers
