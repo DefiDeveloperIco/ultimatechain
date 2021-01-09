@@ -4,7 +4,7 @@ To provide You with Our services We may need (and sometimes are obliged by the l
 
 For the purpose of GDPR and/or any other Act that regulates this matter, We are the data controller and any inquiry regarding the collection or processing of Your data should be emailed to support@ultimatechain.io
 
-1. **What Kind of Personal Information We Collect
+1. **What Kind of Personal Information We Collect**
 
 1.1. While providing Our services We may collect the “Personal Information” which is defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains. Namely, we may collect:
 
@@ -32,7 +32,7 @@ Secure Cookies: We use this setting to guarantee that the cookie is returned to 
 
 1.1.9. Sometimes You decide to share with Us some other Personal Information and We may collect it as well.
 
-2. **How We Use Your Personal Information
+2. **How We Use Your Personal Information**
 
 2.1. We and Our eventual authorized partners store and use your Personal Information only for providing and improving the Technology Platform. In particular, we use Users' Personal Information for the following purposes:
 
@@ -61,7 +61,7 @@ Any suspicious activity will be reported, and all activities may be recorded.
 
 2.2. We strictly follow industry best practices in the industry and adhere to the rules set forth in The General Data Protection Regulation (GDPR)
 
-3. How We Can Share the Information
+3. **How We Can Share the Information**
 
 3.1. In certain situations, We may be required to disclose personal data in response to lawful requests by competent authorities, including to meet national security, public interests or law enforcement requirements. Our policies regarding the exchange of information with competent authorities are reflected in Our Transparency Policy.
 
@@ -79,7 +79,7 @@ Any suspicious activity will be reported, and all activities may be recorded.
 
 4.3. We reserve the right to take different measures of protection, which include but are not limited to a diversification of crypto assets in different allocations whether on a segregate record (account) or not.
 
-5. How We Protect Your Information
+5. **How We Protect Your Information**
 
 5.1. We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on Our Technology Platform.
 
@@ -89,7 +89,7 @@ Any suspicious activity will be reported, and all activities may be recorded.
 
 5.4. Without prejudice to Our efforts on protection of Your information, nothing herein constitutes a warranty of security of the Technology Platform, and You agree to transmit information at your own risk. Please note, that We do not guarantee that your information may not be accessed, disclosed, altered, or destroyed by breach of any of Our physical, technical, or managerial safeguards.
 
-6. What Are Your Rights to Your Data
+6. **What Are Your Rights to Your Data**
 
 6.1. All your Personal Information We collect will always belong to You. However, We are a collector and a processor of your Personal Information. That implies on Us obligations to respect your rights to Personal Information and facilitate the exercise of your rights thereto. In order to use any of Your rights at any time please contact Us and We will facilitate the exercise of your rights free of charge. We will inform You on the actions taken by Us under your request as soon as practically possible, but in any case not later than in 30 (thirty) calendar days.
 
@@ -111,17 +111,17 @@ Any suspicious activity will be reported, and all activities may be recorded.
 
 6.2.8. Right to lodge a complaint. We take privacy concerns seriously. If You believe that We have not complied with this Privacy Policy with respect to your Personal Information, You may contact Us.
 
-7. Children
+7. **Children**
 
 7.1. We do not intend to solicit or collect Personal Information from anyone under the age of 16 or under the legal age of your country if it is higher. If You are under 16 or are not of the legal age of your country, do not enter any personal information on Our Technology Platform.
 
-8. Changes to the Privacy Policy
+8. **Changes to the Privacy Policy**
 
 8.1. Ultimatechain.io has the discretion to update this Policy at any time. Your continued use of the service after We post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
 8.2. If We make any material changes to this Privacy Policy, We will notify You either through the email address You have provided Us or by placing a prominent notice on the Technology Platform. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications.
 
-9. Contacting Us
+9. **Contacting Us**
 
 9.1. If You have any questions about this Privacy Policy, wish to exercise any of your rights to your Personal Information or file a complaint, please contact Us at:
 
