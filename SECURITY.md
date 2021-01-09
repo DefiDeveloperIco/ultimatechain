@@ -4,7 +4,7 @@ To provide You with Our services We may need (and sometimes are obliged by the l
 
 For the purpose of GDPR and/or any other Act that regulates this matter, We are the data controller and any inquiry regarding the collection or processing of Your data should be emailed to support@ultimatechain.io
 
-1. What Kind of Personal Information We Collect
+1. **What Kind of Personal Information We Collect
 
 1.1. While providing Our services We may collect the “Personal Information” which is defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains. Namely, we may collect:
 
@@ -32,7 +32,7 @@ Secure Cookies: We use this setting to guarantee that the cookie is returned to 
 
 1.1.9. Sometimes You decide to share with Us some other Personal Information and We may collect it as well.
 
-2. How We Use Your Personal Information
+2. **How We Use Your Personal Information
 
 2.1. We and Our eventual authorized partners store and use your Personal Information only for providing and improving the Technology Platform. In particular, we use Users' Personal Information for the following purposes:
 
