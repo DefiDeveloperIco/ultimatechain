@@ -1,9 +1,9 @@
 # ultimatechain
 Ultimate chain is an initial coin offering (ico) for UCHT token. Token address TYrtfghuDzuVy9dux67bMbpe2STPh97GDr
 
-_**Pre-sale** [ultimatechain.io](ultimatechain.io)_
-
 Token UCHT is Gaming Cryptocurrency
+
+_**Pre-sale** [ultimatechain.io](ultimatechain.io)_
 
 ## What tasks does we solve?
 We are solving the tasks of populating our UCHT token in order to provide high liquidity. We are developing games and applications that will use our UCHT token and increase its liquidity. The higher liquidity, more profit our investors will receive.
