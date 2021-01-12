@@ -39,7 +39,7 @@ We have high-load servers in our arsenal to ensure the smooth and high-quality o
 
 ## Ultimate Chain Roadmap
 
-1. [*] **UCHT AirDrop Token**
+1. [x] **UCHT AirDrop Token**
 * Distribution of 100,000 tokens per 1,500,000 token sales among all UCHT token buyers
 
 2. [ ] **List on 3 exchanges**
