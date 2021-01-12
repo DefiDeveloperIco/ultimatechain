@@ -61,3 +61,10 @@ We have high-load servers in our arsenal to ensure the smooth and high-quality o
 6. [ ] **Release of 2 online games for iOS, ANDROID in collaboration with supercell**
 * 30% of the proceeds of these 2 games will be distributed to user who have purchased more than 50,000 tokens
 + Distribution of 3,000,000 tokens among all token buyers
+
+## Team
+
+AUBREY HUNT | LEE WALKER | EUSTACE WILCOX | ILENE THORNTON
+------------ | ------------- | ------------- | -------------
+![AUBREY HUNT](https://ultimatechain.io/img/team-img/1.png "AUBREY HUNT") | ![LEE WALKER](https://ultimatechain.io/img/team-img/2.png "LEE WALKER") | ![EUSTACE WILCOX](https://ultimatechain.io/img/team-img/3.png "EUSTACE WILCOX") | ![ILENE THORNTON](https://ultimatechain.io/img/team-img/4.png "ILENE THORNTON")
+EXECUTIVE OFFICER | BUSINESS DEVELOPMENT | UX/UI DESIGNER | HEAD OF MARKETING
