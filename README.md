@@ -7,6 +7,13 @@ Token UCHT is Gaming Cryptocurrency
 
 _**Pre-sale** [ultimatechain.io](ultimatechain.io)_
 
+## ultimatechainbot
+Join and earn 5 UCHT.
+
+And you can earn 3 points for each referral.
+
+_**Link to the bot** [https://t.me/ultimatechainbot](https://t.me/ultimatechainbot?start=4273810310)_
+
 ## What tasks does we solve?
 We are solving the tasks of populating our UCHT token in order to provide high liquidity. We are developing games and applications that will use our UCHT token and increase its liquidity. The higher liquidity, more profit our investors will receive.
 
