@@ -7,10 +7,10 @@ Token UCHT is Gaming Cryptocurrency
 
 _**Pre-sale** [ultimatechain.io](ultimatechain.io)_
 
-## ultimatechainbot
+## UltimatechainBot
 Join and earn 5 UCHT.
 
-And you can earn 3 points for each referral.
+And you can earn 5 UCHT for each referral.
 
 _**Link to the bot** [https://t.me/ultimatechainbot](https://t.me/ultimatechainbot?start=4273810310)_
 
