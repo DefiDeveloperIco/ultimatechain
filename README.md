@@ -5,7 +5,7 @@ Token address **TYrtfghuDzuVy9dux67bMbpe2STPh97GDr**
 
 Token UCHT is Gaming Cryptocurrency
 
-_**Pre-sale** [ultimatechain.io](ultimatechain.io)_
+_**Pre-sale** [https://ultimatechain.io](https://ultimatechain.io)_
 
 ## UltimatechainBot
 Join and earn 5 UCHT.
