@@ -83,5 +83,3 @@ https://icoholder.com/en/ultimate-chain-32170
 https://icomarks.com/ico/ultimate-chain
 
 https://cryptototem.com/ultimate-chain-ucht
-
-![https://cryptototem.com/ultimate-chain-ucht](https://cryptototem.com/widgets/imggen.php?w=70&h=70&format=1&color=0&ico_id=24700 "Ultimate Chain (UCHT) rating")
